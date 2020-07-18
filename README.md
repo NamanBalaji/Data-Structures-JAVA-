@@ -7,3 +7,6 @@ Implementation of various data structures in Java.
   4. Stacks
        a) Using Resizing Arrays
        b) Using Linked Lists
+  5. Queue
+       a) Using Arrays
+       b) Using Linked Lists
