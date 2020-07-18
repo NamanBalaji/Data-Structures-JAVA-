@@ -11,3 +11,6 @@ Implementation of various data structures in Java.
        a) Using Arrays
        b) Using Linked Lists
   6. Binary Search Tree
+  7. Priority Queue
+       a) Max Heap
+       b) Min Heap
