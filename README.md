@@ -10,3 +10,4 @@ Implementation of various data structures in Java.
   5. Queue
        a) Using Arrays
        b) Using Linked Lists
+  6. Binary Search Tree
