@@ -14,3 +14,4 @@ Implementation of various data structures in Java.
   7. Priority Queue
        a) Max Heap
        b) Min Heap
+  8. HashTables
