@@ -15,3 +15,6 @@ Implementation of various data structures in Java.
        a) Max Heap
        b) Min Heap
   8. HashTables
+  9. Graphs 
+       a) Undirected Graph (DFS, BFS)
+       b) Weighhted Directed Graph (DFS, BFS)  
